@@ -1,0 +1,1 @@
+This project uses Python to split pages from a PDF file and create a new PDF document. The program reads selected pages from an existing PDF and saves them into a separate output file.  Language used: Python Library used: PyPDF2
